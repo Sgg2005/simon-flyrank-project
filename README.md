@@ -7,7 +7,7 @@ where I'll be building a frontend web experience using AI assisted development t
 
 ## Stack
 - HTML, CSS, Javascript with React
-- Claude code is the AI assistant I will be using
+- Cursor is the AI assistant I will be using
 
 ## What I'm Building
 A frontend web experience for my FlyRank AI capstone project. The specific 
